@@ -1,0 +1,26 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Täglich um Mitternacht
+  workflow_dispatch:  # Manuell auslösbar
+  push:
+    branches:
+      - main
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Stats Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.STATS_TOKEN }}
+        with:
+          USERNAME: vanthunder
+          UTC_OFFSET: 1

@@ -81,30 +81,30 @@ Im Oktober 2025 habe ich meinen **Bachelor of Science in Computervisualistik und
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanthunder&theme=tokyonight)
+![](https://raw.githubusercontent.com/vanthunder/vanthunder/main/profile-summary-card-output/tokyonight/0-profile-details.svg)
 
 <table>
 <tr>
 <td width="50%">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanthunder&theme=tokyonight)
+![](https://raw.githubusercontent.com/vanthunder/vanthunder/main/profile-summary-card-output/tokyonight/3-stats.svg)
 
 </td>
 <td width="50%">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vanthunder&theme=tokyonight&utcOffset=1)
+![](https://raw.githubusercontent.com/vanthunder/vanthunder/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanthunder&theme=tokyonight)
+![](https://raw.githubusercontent.com/vanthunder/vanthunder/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg)
 
 </td>
 <td width="50%">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanthunder&theme=tokyonight)
+![](https://raw.githubusercontent.com/vanthunder/vanthunder/main/profile-summary-card-output/tokyonight/4-productive-time.svg)
 
 </td>
 </tr>
