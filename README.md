@@ -112,7 +112,7 @@ Im Oktober 2025 habe ich meinen **Bachelor of Science in Computervisualistik und
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=vanthunder&theme=transparent&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vanthunder&theme=transparent&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=333333&dates=666666&stroke=E0E0E0" alt="GitHub Streak" />
 
 <br/><br/>
 
