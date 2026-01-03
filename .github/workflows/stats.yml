@@ -24,5 +24,12 @@ jobs:
         with:
           USERNAME: vanthunder
           UTC_OFFSET: 1
-          THEME: github_dark
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add profile-summary-card-output/
+          git commit -m "Update stats cards" || exit 0
+          git push
 

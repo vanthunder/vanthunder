@@ -81,30 +81,30 @@ Im Oktober 2025 habe ich meinen **Bachelor of Science in Computervisualistik und
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vanthunder/vanthunder/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile Details" />
+<img src="https://raw.githubusercontent.com/vanthunder/vanthunder/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
 
 <table>
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/vanthunder/vanthunder/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repos per Language" />
+<img src="https://raw.githubusercontent.com/vanthunder/vanthunder/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per Language" />
 
 </td>
 <td>
 
-<img src="https://raw.githubusercontent.com/vanthunder/vanthunder/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most Commit Language" />
+<img src="https://raw.githubusercontent.com/vanthunder/vanthunder/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Most Commit Language" />
 
 </td>
 </tr>
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/vanthunder/vanthunder/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Stats" />
+<img src="https://raw.githubusercontent.com/vanthunder/vanthunder/main/profile-summary-card-output/default/3-stats.svg" alt="Stats" />
 
 </td>
 <td>
 
-<img src="https://raw.githubusercontent.com/vanthunder/vanthunder/main/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" />
+<img src="https://raw.githubusercontent.com/vanthunder/vanthunder/main/profile-summary-card-output/default/4-productive-time.svg" alt="Productive Time" />
 
 </td>
 </tr>
@@ -112,7 +112,7 @@ Im Oktober 2025 habe ich meinen **Bachelor of Science in Computervisualistik und
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vanthunder&theme=transparent&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=333333&dates=666666&stroke=E0E0E0" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=vanthunder&theme=transparent&hide_border=true&border_radius=10&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=333333&dates=666666" alt="GitHub Streak" />
 
 <br/><br/>
 
