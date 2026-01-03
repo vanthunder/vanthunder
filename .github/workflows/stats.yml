@@ -24,3 +24,5 @@ jobs:
         with:
           USERNAME: vanthunder
           UTC_OFFSET: 1
+          THEME: github_dark
+
