@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hey%2C+ich+bin+Marvin+%F0%9F%91%8B;Python+%26+Backend+Developer;Building+Scalable+Solutions;Based+in+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=120&lines=Hey%2C+ich+bin+Marvin+%F0%9F%91%8B;Python+%26+Backend+Developer;Building+Scalable+Solutions;Based+in+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" /></a>
 
 <br/>
 
