@@ -81,7 +81,7 @@ Im Oktober 2025 habe ich meinen **Bachelor of Science in Computervisualistik und
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vanthunder/vanthunder/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanthunder&theme=default" alt="Profile Details" />
 
 <table>
 <tr>
@@ -99,7 +99,7 @@ Im Oktober 2025 habe ich meinen **Bachelor of Science in Computervisualistik und
 <tr>
 <td>
 
-<img src="https://raw.githubusercontent.com/vanthunder/vanthunder/main/profile-summary-card-output/default/3-stats.svg" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanthunder&theme=default" alt="Stats" />
 
 </td>
 <td>
