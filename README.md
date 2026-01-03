@@ -81,16 +81,30 @@ Im Oktober 2025 habe ich meinen **Bachelor of Science in Computervisualistik und
 
 <div align="center">
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanthunder&theme=tokyonight)
+
 <table>
 <tr>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vanthunder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanthunder&theme=tokyonight)
 
 </td>
 <td width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanthunder&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vanthunder&theme=tokyonight&utcOffset=1)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanthunder&theme=tokyonight)
+
+</td>
+<td width="50%">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vanthunder&theme=tokyonight)
 
 </td>
 </tr>
