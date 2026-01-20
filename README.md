@@ -9,8 +9,8 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-marvin.schubert%40stud.hshl.de-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marvin.schubert@stud.hshl.de)
-[![Portfolio](https://img.shields.io/badge/Portfolio-web.vanthunder.de-6366F1?style=for-the-badge&logo=safari&logoColor=white)](https://web.vanthunder.de)
+[![Email](https://img.shields.io/badge/Email-marvin.schubert@vanthunder.de-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marvin.schubert@vanthunder.de)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vanthunderweb.de-6366F1?style=for-the-badge&logo=safari&logoColor=white)](https://vanthunderweb.de)
 [![GitHub](https://img.shields.io/badge/GitHub-vanthunder-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanthunder)
 
 </div>
@@ -116,7 +116,7 @@ Im Oktober 2025 habe ich meinen **Bachelor of Science in Computervisualistik und
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=vanthunder&theme=flat&no-frame=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=vanthunder&theme=flat&no-frame=true&row=1&column=6&margin-w=15&no-bg=true" alt="GitHub Trophies" />
 
 </div>
 
