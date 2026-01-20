@@ -126,7 +126,7 @@ Im Oktober 2025 habe ich meinen **Bachelor of Science in Computervisualistik und
 
 <div align="center">
 
-### 📈 Datenpipeline OTTO → Apache Kafka
+### �📈 Datenpipeline OTTO → Apache Kafka
 Automatisierte Übertragung von Bestandsdaten aus der OTTO-Rückstandsliste in Apache Kafka zur Versorgung nachgelagerter Systeme (mehrere hundert Datensätze/Woche).
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -144,21 +144,50 @@ Webbasiertes Dashboard zur Visualisierung von EDI-Kennzahlen und Schnittstellens
 
 ---
 
-### 🛒 Kundenwebsites & Workshop-Webshop
-Business-Websites mit responsivem Layout, Admin-Panel und Workshop-Webshop mit Stripe-Zahlungsanbindung.
+### 🌸 Fortuna's-Blumenboulevard
+[fortunas-blumenboulevard.de](https://fortunas-blumenboulevard.de) – Moderne Website mit Online-Buchungssystem für Floristik-Workshops. Multi-Location Support (Hannover & Hamburg), Stripe Checkout, PDF-Rechnungen und Admin-Panel.
 
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+**Features:** 🎓 Workshop-Buchung · 💳 Stripe Payments · 📸 Galerie · 📊 Analytics · 📧 E-Mail-Integration · 🔍 SEO-optimiert
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 
 ---
 
-### 🌐 Persönliche Agentur-Website
-[web.vanthunder.de](https://web.vanthunder.de) – Moderne Frontend-Technologien für meinen Freelance-Webauftritt.
+### � ApplyOrbit – Bewerbungs-Tracker
+[applyorbit.de](https://applyorbit.de) – Moderner, persönlicher Bewerbungs-Tracker mit Benutzerkonten. Behalte den Überblick über deine Bewerbungen, Termine und Kontakte.
 
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+**Features:** 📝 Bewerbungen verwalten · 📅 Termine planen · 🏷️ Tags · 📊 Dashboard · 👤 JWT-Auth · 📱 Responsive
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+---
+
+### 🌐 VanThunder Web Agency
+[vanthunderweb.de](https://vanthunderweb.de) – Moderne Webdesign-Agentur-Plattform mit KI-gestütztem Content-Management. Full-Stack-Lösung mit Admin-Panel, Blog-System, WYSIWYG-Editor und 3D-Animationen.
+
+**Features:** 🤖 KI-Content-Generierung · 📝 TipTap Editor · 📊 Analytics · 🎨 3D-Animationen · 🔐 JWT-Auth · 📱 Responsive
+
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 
 </div>
 
@@ -169,7 +198,7 @@ Business-Websites mit responsivem Layout, Admin-Panel und Workshop-Webshop mit S
 - 🔭 **Working on:** Freelance Webprojekte & neue Kundenseiten
 - 🌱 **Learning:** Advanced Kubernetes, Cloud Architecture
 - 💬 **Ask me about:** Python, Flask, FastAPI, Docker, Datenpipelines, Apache Kafka
-- 📫 **Reach me at:** [marvin.schubert@stud.hshl.de](mailto:marvin.schubert@stud.hshl.de)
+- 📫 **Reach me at:** [marvin.schubert@vanthunder.de](mailto:marvin.schubert@vanthunder.de)
 - 🎓 **Education:** B.Sc. Computervisualistik und Design (HSHL)
 - 🏢 **Experience:** 1.5+ Jahre bei OTTO (E-Commerce)
 
