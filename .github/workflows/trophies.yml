@@ -1,0 +1,69 @@
+name: Update GitHub Trophies
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/trophies.yml
+
+concurrency:
+  group: github-profile-trophies
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  update-trophies:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate light trophies
+        uses: ryo-ma/github-profile-trophy@e3c89df995e92e67cdd4b2acaab9d974583dc1f7
+        with:
+          username: vanthunder
+          output_path: assets/github-trophies.svg
+          theme: flat
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate dark trophies
+        uses: ryo-ma/github-profile-trophy@e3c89df995e92e67cdd4b2acaab9d974583dc1f7
+        with:
+          username: vanthunder
+          output_path: assets/github-trophies-dark.svg
+          theme: onedark
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Validate generated SVGs
+        shell: python
+        run: |
+          from pathlib import Path
+          import xml.etree.ElementTree as ET
+
+          for name in ("github-trophies.svg", "github-trophies-dark.svg"):
+              path = Path("assets") / name
+              if not path.is_file() or path.stat().st_size == 0:
+                  raise RuntimeError(f"Missing or empty trophy asset: {path}")
+              root = ET.parse(path).getroot()
+              if root.tag != "{http://www.w3.org/2000/svg}svg":
+                  raise RuntimeError(f"Invalid SVG document: {path}")
+
+      - name: Commit updated trophies
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- assets/github-trophies.svg assets/github-trophies-dark.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "Update GitHub trophy assets"
+          git pull --rebase origin main
+          git push origin HEAD:main
