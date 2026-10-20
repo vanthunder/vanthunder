@@ -1,232 +1,200 @@
 <div align="center">
 
-<!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=120&lines=Hey%2C+ich+bin+Marvin+%F0%9F%91%8B;Python+%26+Backend+Developer;Building+Scalable+Solutions;Based+in+Germany+%F0%9F%87%A9%F0%9F%87%AA" alt="Typing SVG" /></a>
+# Marvin Schubert
 
-<br/>
+### Python- & Backend-Entwickler
 
-**`Python & Backend Developer | Datenpipelines | Automatisierung | Web-Backends`**
+**Datenpipelines · Automatisierung · Webanwendungen**<br/>
+Deutschland · B.Sc. Computervisualistik und Design
 
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-marvin.schubert@vanthunder.de-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marvin.schubert@vanthunder.de)
+[![E-Mail](https://img.shields.io/badge/E--Mail-Kontakt-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marvin.schubert@vanthunder.de)
 [![Portfolio](https://img.shields.io/badge/Portfolio-vanthunderweb.de-6366F1?style=for-the-badge&logo=safari&logoColor=white)](https://vanthunderweb.de)
-[![GitHub](https://img.shields.io/badge/GitHub-vanthunder-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanthunder)
+
+[Projekte](#projekte) · [Berufspraxis](#berufspraxis) · [Tech-Stack](#tech-stack)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Über mich
 
-Ich bin **Python- und Backend-Entwickler** aus Deutschland mit einem Fokus auf **Datenpipelines**, **Automatisierung** und **Web-Backends**. Während meiner Zeit als Werkstudent bei **OTTO** – einem der größten E-Commerce-Unternehmen Deutschlands – habe ich Monitoring-Dashboards, API-basierte Systeme und interne Tools entwickelt.
+Ich entwickle **Python-Backends, Datenpipelines und Automatisierungen**. In über **1,5 Jahren als Werkstudent bei OTTO** habe ich Monitoring-Dashboards, API-basierte Systeme und interne Tools für den E-Commerce entwickelt.
 
-Seit Anfang 2025 bin ich zusätzlich als **selbstständiger Webentwickler** tätig und realisiere moderne Websites und Webanwendungen für kleine Unternehmen. Alle Projekte deploye und betreibe ich auf meinem eigenen Ubuntu-Server mit Docker und NGINX.
+Seit Anfang 2025 realisiere ich als **selbstständiger Webentwickler** Websites und Webanwendungen für kleine Unternehmen. Dabei verbinde ich Backend-Entwicklung mit der Gestaltung der Benutzeroberfläche und betreibe meine Webprojekte auf einem eigenen **Ubuntu-Server mit Docker und NGINX**.
 
-Im Oktober 2025 habe ich meinen **Bachelor of Science in Computervisualistik und Design** an der Hochschule Hamm-Lippstadt abgeschlossen (Bachelorarbeit: 1,7). Diese Kombination aus Informatik und Design ermöglicht mir, nicht nur robuste Backend-Lösungen zu bauen, sondern auch ansprechende Interfaces zu gestalten.
+Meinen **B.Sc. in Computervisualistik und Design** an der Hochschule Hamm-Lippstadt habe ich im Oktober 2025 abgeschlossen (**Bachelorarbeit: 1,7**).
 
----
+<a id="projekte"></a>
 
-## 🛠️ Tech Stack
+## 🚀 Ausgewählte Projekte
 
-<div align="center">
+### ApplyOrbit – Bewerbungsmanagement
 
-### 🐍 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+[**Live ansehen → applyorbit.de**](https://applyorbit.de)
 
-### ⚙️ Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+Webanwendung, die Bewerbungen, Termine, Kontakte und nächste Schritte an einem Ort bündelt. Benutzerkonten mit JWT-Authentifizierung, Tags und ein Dashboard unterstützen die Organisation des Bewerbungsprozesses.
 
-### 🎨 Frontend
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### 🐳 DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### 💳 Payments & Services
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
-
-### 📊 Data & Streaming
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-
-### 🤖 AI & Automation
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### 🎬 Design & Media
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanthunder&theme=default" alt="Profile Details" />
-
-<table>
-<tr>
-<td>
-
-<img src="https://raw.githubusercontent.com/vanthunder/vanthunder/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per Language" />
-
-</td>
-<td>
-
-<img src="https://raw.githubusercontent.com/vanthunder/vanthunder/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Most Commit Language" />
-
-</td>
-</tr>
-<tr>
-<td>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanthunder&theme=default" alt="Stats" />
-
-</td>
-<td>
-
-<img src="https://raw.githubusercontent.com/vanthunder/vanthunder/main/profile-summary-card-output/default/4-productive-time.svg" alt="Productive Time" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=vanthunder&theme=transparent&hide_border=true&border_radius=10&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=333333&dates=666666" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=vanthunder&theme=flat&no-frame=true&row=1&column=6&margin-w=15&no-bg=true" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 📈 Datenpipeline OTTO → Apache Kafka
-Automatisierte Übertragung von Bestandsdaten aus der OTTO-Rückstandsliste in Apache Kafka zur Versorgung nachgelagerter Systeme (mehrere hundert Datensätze/Woche).
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-### 📊 EDI Monitoring-Dashboard
-Webbasiertes Dashboard zur Visualisierung von EDI-Kennzahlen und Schnittstellenstatus für Fachbereich und IT bei OTTO.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
----
-
-### 🌸 Fortuna's-Blumenboulevard
-[fortunas-blumenboulevard.de](https://fortunas-blumenboulevard.de) – Moderne Website mit Online-Buchungssystem für Floristik-Workshops. Multi-Location Support (Hannover & Hamburg), Stripe Checkout, PDF-Rechnungen und Admin-Panel.
-
-**Features:** 🎓 Workshop-Buchung · 💳 Stripe Payments · 📸 Galerie · 📊 Analytics · 📧 E-Mail-Integration · 🔍 SEO-optimiert
+**Umsetzung:** FastAPI-Backend mit SQLAlchemy sowie ein responsives Frontend mit SvelteKit, TypeScript und Tailwind CSS.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+
+### Fortuna’s Blumenboulevard – Website & Workshop-Buchung
+
+[**Live ansehen → fortunas-blumenboulevard.de**](https://fortunas-blumenboulevard.de)
+
+Website für Floristik und Workshops in Hannover und Hamburg. Das Buchungssystem verbindet Workshop-Anmeldungen mit **Stripe Checkout, PDF-Rechnungen und einem Admin-Panel**. Galerie und E-Mail-Integration ergänzen den Auftritt.
+
+**Umsetzung:** Python-Backend mit FastAPI und SQLAlchemy, HTML/SCSS und JavaScript; Deployment mit Docker und NGINX.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
+### VanThunder – Webagentur & Content-Management
 
-### 🚀 ApplyOrbit – Bewerbungs-Tracker
-[applyorbit.de](https://applyorbit.de) – Moderner, persönlicher Bewerbungs-Tracker mit Benutzerkonten. Behalte den Überblick über deine Bewerbungen, Termine und Kontakte.
+[**Live ansehen → vanthunderweb.de**](https://vanthunderweb.de)
 
-**Features:** 📝 Bewerbungen verwalten · 📅 Termine planen · 🏷️ Tags · 📊 Dashboard · 👤 JWT-Auth · 📱 Responsive
+Agentur-Website mit **Admin-Panel, Blog und TipTap-Editor** zur Inhaltspflege. KI-gestützte Content-Generierung und 3D-Animationen ergänzen die Anwendung.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
----
-
-### 🌐 VanThunder Web Agency
-[vanthunderweb.de](https://vanthunderweb.de) – Moderne Webdesign-Agentur-Plattform mit KI-gestütztem Content-Management. Full-Stack-Lösung mit Admin-Panel, Blog-System, WYSIWYG-Editor und 3D-Animationen.
-
-**Features:** 🤖 KI-Content-Generierung · 📝 TipTap Editor · 📊 Analytics · 🎨 3D-Animationen · 🔐 JWT-Auth · 📱 Responsive
+**Umsetzung:** SvelteKit und TypeScript im Frontend, FastAPI im Backend, JWT-Authentifizierung und Three.js; Betrieb mit Docker und NGINX.
 
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
 
-</div>
+### Öffentlicher Python-Code – Unreal-Engine-Performanceanalyse
+
+- [**UE Performance Analyzer**](https://github.com/vanthunder/ue-performance-analyzer) verarbeitet Profiler-CSV-Dateien zu Excel-Berichten mit Mittelwerten und p95-Kennzahlen.
+- [**UE A/B Comparison**](https://github.com/vanthunder/ue-ab-comparison) ergänzt Szenenvergleiche und prozentuale Unterschiede zwischen zwei Varianten.
+
+**Stack:** Python · pandas · NumPy · openpyxl
+
+<a id="berufspraxis"></a>
+
+## 🏢 Berufspraxis bei OTTO
+
+Beispiele aus meiner Werkstudententätigkeit:
+
+### Datenpipeline → Apache Kafka
+
+Automatisierte Übertragung von Bestandsdaten aus der OTTO-Rückstandsliste in Apache Kafka zur Versorgung nachgelagerter Systeme – **mehrere hundert Datensätze pro Woche**.
+
+**Stack:** Python · Apache Kafka · REST-APIs
+
+### EDI-Monitoring-Dashboard
+
+Webbasiertes Dashboard zur Visualisierung von EDI-Kennzahlen und Schnittstellenstatus für Fachbereich und IT.
+
+**Stack:** Python · Flask · JavaScript
+
+<a id="tech-stack"></a>
+
+## 🛠️ Tech-Stack
+
+### Sprachen
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Backend & Daten
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+### Frontend
+
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+### Deployment & Betrieb
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<details>
+<summary>Weitere Technologien & Werkzeuge</summary>
+
+- **Sprachen & Web:** Java · HTML5 · CSS3 · SCSS
+- **APIs & Services:** REST · JWT · Stripe
+- **Entwicklung & Cloud:** Vite · GitHub · GitLab CI · Jenkins · Azure
+- **KI & Automatisierung:** OpenAI · PyTorch
+- **Design & Medien:** Photoshop · Illustrator · After Effects · Premiere Pro · Unreal Engine
+
+</details>
+
+## 🔭 Aktuell
+
+- **Projekte:** Freelance-Webprojekte und neue Kundenseiten
+- **Weiterbildung:** Kubernetes und Cloud-Architektur
+- **Kontakt:** [marvin.schubert@vanthunder.de](mailto:marvin.schubert@vanthunder.de)
 
 ---
 
-## 🔭 Currently
-
-- 🔭 **Working on:** Freelance Webprojekte & neue Kundenseiten
-- 🌱 **Learning:** Advanced Kubernetes, Cloud Architecture
-- 💬 **Ask me about:** Python, Flask, FastAPI, Docker, Datenpipelines, Apache Kafka
-- 📫 **Reach me at:** [marvin.schubert@vanthunder.de](mailto:marvin.schubert@vanthunder.de)
-- 🎓 **Education:** B.Sc. Computervisualistik und Design (HSHL)
-- 🏢 **Experience:** 1.5+ Jahre bei OTTO (E-Commerce)
-
----
-
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanthunder/vanthunder/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vanthunder/vanthunder/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vanthunder/vanthunder/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
+## 📊 GitHub-Aktivität
 
 <div align="center">
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vanthunder.vanthunder&left_color=gray&right_color=6366F1)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-trophies-dark.svg" />
+  <img src="./assets/github-trophies.svg" alt="GitHub-Trophäen von vanthunder" width="850" />
+</picture>
 
-**Made with ❤️ in Germany 🇩🇪**
+</div>
+
+<details>
+<summary>Statistiken & Contribution-Animation anzeigen</summary>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vanthunder&theme=default" alt="GitHub-Beiträge von vanthunder im letzten Jahr" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+  <img src="./profile-summary-card-output/github/1-repos-per-language.svg" alt="Sprachen nach Anzahl der Repositories" width="350" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+  <img src="./profile-summary-card-output/github/2-most-commit-language.svg" alt="Sprachen nach Anzahl der Commits" width="350" />
+</picture>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vanthunder&theme=default" alt="GitHub-Statistik: Stars, Commits und Pull Requests" width="350" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg" />
+  <img src="./profile-summary-card-output/github/4-productive-time.svg" alt="Verteilung der Commits nach Tageszeit (UTC+1)" width="350" />
+</picture>
+
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=vanthunder&theme=transparent&hide_border=true&border_radius=10&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&sideLabels=333333&dates=666666" alt="GitHub-Beitragsserie von vanthunder" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanthunder/vanthunder/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="Animierte Darstellung meiner GitHub-Beiträge" src="https://raw.githubusercontent.com/vanthunder/vanthunder/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+</details>
+
+<div align="center">
+
+Made with ❤️ in Germany
 
 </div>
