@@ -2,6 +2,8 @@
 
 # Marvin Schubert
 
+**Deutsch** · [English](./README.en.md)
+
 ### Python- & Backend-Entwickler
 
 **Datenpipelines · Automatisierung · Webanwendungen**<br/>
@@ -194,6 +196,8 @@ Webbasiertes Dashboard zur Visualisierung von EDI-Kennzahlen und Schnittstellens
 </details>
 
 <div align="center">
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=vanthunder.vanthunder&amp;left_text=Profilaufrufe&amp;left_color=%23334155&amp;right_color=%234f46e5&amp;logo=github&amp;radius=5&amp;height=24" alt="Profilaufrufe" title="Ungefähre Aufrufzahl, keine eindeutigen Besucher" />
 
 Made with ❤️ in Germany
 
